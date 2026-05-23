@@ -4,5 +4,4 @@ public class Product {
     private Integer productId;
     private String productCode;
     private String productName;
-    private String categoryName;
 }
